@@ -16,11 +16,13 @@
     width: 100px;
 }
 .logo{
-    background-image: url("./assets/amazonlogo.png");
-    background-size:cover;
+    /* background-image: url("");
+    background-size:cover; */
+
     height: 50px;
-    width: 100%;
+    width: 10px;
 }
+
 .border{
     border: 1.5px solid transparent;
 }
