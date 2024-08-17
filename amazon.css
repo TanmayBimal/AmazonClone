@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("./amazonlogo.png");
+    background-image: url("./assets/amazonlogo.png");
     background-size:cover;
     height: 50px;
     width: 100%;
@@ -112,7 +112,7 @@ span{
     font-weight: 500;
 }
 .hero-section{
-    background-image: url('./image\ 1\ earphone.jpg');
+    background-image: url('./assets/image\ 1\ earphone.jpg');
     background-size: cover;
     height: 350px;
     display: flex;
